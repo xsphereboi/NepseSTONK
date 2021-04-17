@@ -4,7 +4,7 @@ NepseSTONK is a Python Code for easy scraping of share prices and cache them.
 
 ## Installation
 
-Use the git to install foobar.
+Use the git to install NepseSTONK.
 
 ```bash
 git clone https://github.com/xsphereboi/NepseSTONK.git
