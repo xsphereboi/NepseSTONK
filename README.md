@@ -16,7 +16,7 @@ git clone https://github.com/xsphereboi/NepseSTONK.git
 import nepse
 
 Fetcher = nepse.Fetch() # Initialize
-data= Fetcher.getINFO(SYMBOL) # Gets All the required information about certain company off sharesansar.com
+data= Fetcher.getInfo(SYMBOL) # Gets All the required information about certain company off sharesansar.com
 ```
 ## Usage For Chart
 
